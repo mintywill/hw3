@@ -1,5 +1,4 @@
-function mint(x, y) {
-  fill(255,255,255);
+
 for (var i = 5; i <= 400; i = i + 10) {
   
   var startX = i;
