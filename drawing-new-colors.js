@@ -1,4 +1,3 @@
-
 function setup() { 
   createCanvas(400, 400);
 } 
@@ -21,5 +20,9 @@ function keyPressed() {
     fill(239, 143, 143); 
   } else if (key == 'C') {
     fill(244, 140, 66); 
+	} else if (key == 'B') {
+		fill(66, 194, 244);
+	} else if (key == 'P') {
+		fill(173, 158, 255);
 	}
 }
