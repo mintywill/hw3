@@ -7,7 +7,6 @@ for (var i = 5; i <= 400; i = i + 10) {
   var endY = 400;
   line(startX, startY, endX, endY);
 }
-}
 
 // draw patch at upper-left
 
